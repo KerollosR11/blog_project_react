@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "ae23",
+      "firstname": "omar",
+      "lastname": "ali",
+      "email": "omar.ali@gmail.com",
+      "password": "123456",
+      "gender": "male"
+    },
+    
+    {
+      "id": "6345",
+      "firstName": "mohamed",
+      "lastName": "ghali",
+      "email": "moghali11@gmail.com",
+      "password": "1234567",
+      "gender": "male"
+    },
+    {
+      "id": "b8d2",
+      "firstName": "samy",
+      "lastName": "salem",
+      "email": "samsal@gmail.com",
+      "password": "112233",
+      "gender": "male"
+    },
+    
+    {
+      "id": "8b9d",
+      "firstName": "ramy",
+      "lastName": "ahmed",
+      "email": "rahmed@gmail.com",
+      "password": "123456",
+      "gender": "male"
+    },
+    {
+      "id": "e4c8",
+      "firstName": "ali",
+      "lastName": "gamil",
+      "email": "agmi@gmail.com",
+      "password": "1234567",
+      "gender": "male"
+    },
+    {
+      "id": "0c1a",
+      "firstName": "Kerollos",
+      "lastName": "R",
+      "email": "kero@gmail.com",
+      "password": "123456",
+      "gender": "male"
+    }
+  ],
+  "posts": [
+    {
+      "id": "3746bac8-19a5-4362-b537-27ad77d2bfff",
+      "username": "ali soliman",
+      "image": "https://images.stockcake.com/public/f/b/b/fbb5b793-2ad1-4a8c-89c6-9faa796ce96c_large/futuristic-technology-lab-stockcake.jpg",
+      "title": "Futuristic technology lab",
+      "desc": "Advanced robotics and illuminated brains symbolize innovative research in a futuristic technology lab environment."
+    },
+    {
+      "id": "e0174246-e127-436e-9397-8fb50543531c",
+      "username": "ahmed hassan",
+      "image": "https://images.stockcake.com/public/7/6/6/7668c31d-01c4-4a34-92bc-9df40531e98c_large/city-night-texting-stockcake.jpg",
+      "title": "City Night Texting",
+      "desc": "A man checks his smartphone intently, illuminated by colorful city lights on a bustling urban street."
+    },
+    {
+      "id": "625178bd-a2cb-440e-8762-36ddb489de12",
+      "username": "maged fawzy",
+      "image": "https://images.stockcake.com/public/6/1/0/61033694-de27-44ae-95d8-ebd076d822e3_large/snowy-evening-scene-stockcake.jpg",
+      "title": "Snowy Evening Scene",
+      "desc": "A tranquil snowy evening envelops a residential street with warm lights glowing under a gentle snowfall."
+    },
+    {
+      "id": "84a6ac38-6054-480a-aa83-f5acfe5f3967",
+      "username": "Kerollos R",
+      "image": "https://images.stockcake.com/public/1/3/6/136075a6-97db-4644-b951-59201fab5f19_large/exotic-car-show-stockcake.jpg",
+      "title": "Exotic Car Show",
+      "desc": "A vibrant display of high-performance vehicles at an upscale car show, showcasing sleek designs and innovative engineering.",
+      "useremail": "kero@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+first install node module file 
+ >> npm i
+
+second open json server for file "data" by following steps:
+1- mouseover file "data" then right click and choose open with integrated terminal
+2- in terminal type this command: 
+>> npx json-server data.json --watch --port 3100
+
+and enjoy with my simple and first Blog website 
+and wait untill next version released!!!
+thank's to god then thank's to swe/Ahmad Zaghloul
